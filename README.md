@@ -9,7 +9,7 @@ Sou estudante de Ciência da Computação, com conclusão prevista para 2028, e 
         <img 
             alt="LinkedIn" 
             title="Conecte-se" 
-            src="src=https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+            src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="mailto:carolinesmoto@gmail.com" target="_blank">
         <img 
